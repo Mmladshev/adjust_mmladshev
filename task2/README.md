@@ -29,7 +29,7 @@ The metric shows how heavily your service is being used. This is a system monito
 
 And now about Zabbix part
 
-We can use any zabbix out-of-the-box template. They really good, but in fact that we have linux and our server playing the proxi role we should care more about:
+We can use any zabbix out-of-the-box template. They really good, but in fact that we have linux and our server playing the proxy role we should care more about:
 Everything is a file, even connection. 
 1) SigGroups
 2) Descriptors

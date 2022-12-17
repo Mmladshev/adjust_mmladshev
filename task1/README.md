@@ -11,7 +11,7 @@ You can use *adjtst* without any additional flags, to print simple output
 ## Build instructions
 ```sh
 git clone git@github.com:Mmladshev/adjust_mmladshev.git
-cd /adjust_mmladshev/task1
+cd adjust_mmladshev/task1
 chmod +x script.sh  
 ln /path/to/the/script /usr/bin/adjtst
 ```

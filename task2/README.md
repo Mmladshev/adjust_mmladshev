@@ -37,8 +37,8 @@ Everything is a file, even connection.
 
 
 Also we should care about more common metrics: 
-1) CPU
-2) Load
+1) CPU utilization, memory utilization
+2) Load 
 3) I/O read, write
 4) disk utilization
 5) Availability of our core processes 

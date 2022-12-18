@@ -31,9 +31,8 @@ And now about Zabbix part
 
 We can use any zabbix out-of-the-box template. They really good, but in fact that we have linux and our server playing the proxy role we should care more about:
 Everything is a file, even connection. 
-1) SigGroups
-2) Descriptors
-3) Inodes
+1) Descriptors
+2) Inodes
 
 
 Also we should care about more common metrics: 
